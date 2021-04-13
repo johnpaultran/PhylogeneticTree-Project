@@ -1,4 +1,4 @@
-// class to store data for any given index within the distance array
+// class to store data for any given index within the distance matrix
 // data for each index includes coordinates, distance, and cluster
 public class Index
 {
